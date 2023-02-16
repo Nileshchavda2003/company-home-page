@@ -1,0 +1,111 @@
+#name{
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    font-size:xx-large;
+    
+}
+#company{
+    color: rgb(238, 133, 47);
+}
+#sqr{
+    background-color: rgb(87, 97, 105);
+    padding: 40px;
+    /* margin-bottom: 0%; */
+    /* margin-top: 100px; */
+    margin-left: 0px;
+    margin-right: 50px;
+}
+#we{
+    background-color: rgba(107, 170, 151,1.0) ;
+    
+    position: absolute;
+    padding-bottom: 200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    /* border-end-start-radius: 100px; */
+    border-radius: 0px 0px 200px 200px;
+    margin-right: 0px;
+    margin-left:70%;
+    
+    /* text-align: center; */
+
+}
+#weu{
+    padding: 50px;
+    font-weight: 700;
+    font-size:xx-large;
+    color: aliceblue;
+}
+#bg
+{  
+     /* padding-top: 15%; */ */
+    /* position:absolute; */
+    position: relative;
+    align-self: center;
+      /* margin-top: 100px; */
+}
+/* last section */
+/* Right section */
+#last{
+
+    align-items: flex-end;
+}
+#no
+{
+    font-size: xxx-large;
+    color: rgb(230, 73, 34);
+}
+#our{
+    /* margin: auto; */
+    font-size: xx-large;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 50px;
+    color: rgb(74, 145, 127);
+
+
+}
+.serv{
+    color: rgb(74, 145, 127);
+    font-size: x-large;
+
+}
+/* left section */
+#about{
+        color: aliceblue;
+    padding-top:45px;
+    padding-bottom: 50px;
+    text-align:justify;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.abo{
+    background-color: rgb(49, 90, 90);
+
+}
+#contact{
+    
+    color: aliceblue;
+    padding-top:40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align:justify;
+    }
+    .con{
+        background-color: orangered;
+    }
+#example{
+    background-color: rgb(106, 119, 119);
+    color:beige;
+    padding-top:50px;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+    text-align:center;
+}
+/* footer */
+footer{
+    padding: 5px;
+    background-color: rgb(230, 86, 29);
+}
