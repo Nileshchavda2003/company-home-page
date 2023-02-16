@@ -15,12 +15,13 @@
     /* margin-top: 100px; */
     margin-left: 0px;
     margin-right: 50px;
+    box-shadow: 10px 4px inset rgb(161, 159, 159);
 }
 #we{
     background-color: rgba(107, 170, 151,1.0) ;
     
     position: absolute;
-    padding-bottom: 200px;
+    padding-bottom: 50px;
     padding-left: 15px;
     padding-right: 15px;
     /* border-end-start-radius: 100px; */
